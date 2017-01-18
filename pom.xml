@@ -36,7 +36,7 @@
         <repository>
             <id>central</id>
             <name>Jet Mirror</name>
-            <url>https://artifacts.notjet.net/jcenter-cache/</url>
+            <url>https://artifacts.notjet.net/libs-release/</url>
         </repository>
     </repositories>
     <properties>
