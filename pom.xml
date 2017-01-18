@@ -32,7 +32,13 @@
         <url>https://github.com/facebook/presto</url>
         <tag>HEAD</tag>
     </scm>
-
+    <repositories>
+        <repository>
+            <id>central</id>
+            <name>Jet Mirror</name>
+            <url>https://artifacts.notjet.net/jcenter-cache/</url>
+        </repository>
+    </repositories>
     <properties>
         <air.main.basedir>${project.basedir}</air.main.basedir>
 
